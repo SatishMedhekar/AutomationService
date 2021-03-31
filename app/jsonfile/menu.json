@@ -1,0 +1,22 @@
+[{"menuType": 0,
+    "menuDetail":[
+        {"id":"1", 
+         "displayOrder": 0, 
+         "name": "Light", 
+         "imagePath": "../images/Extras/", 
+         "imageFileName": "light24.ico" },
+        {"id":"2", 
+         "displayOrder": 1, 
+         "name": "Music", 
+         "imagePath": "../images/Extras/",   
+         "imageFileName": "music24.ico"},
+        {"id":"3", 
+         "displayOrder": 2, 
+         "name": "Message", 
+         "imagePath": "../images/Extras/", 
+         "imageFileName": "message24.ico"   }] 
+    },
+    {"menuType": 1, 
+        "menuDetail":[{"id":"4", "displayOrder": 0, "name": "Weather", "imagePath": "../images/Extras/", "imageFileName": "temperature24.ico"   },
+                    {"id": "5", "displayOrder": 1, "name": "Calendar", "imagePath": "../images/Extras/", "imageFileName": "calendar24.ico"   },
+                    {"id":"6", "displayOrder": 2, "name": "Setting", "imagePath": "../images/Extras/",   "imageFileName": "settings-25-16.ico"   }]  }]
